@@ -1,6 +1,4 @@
-﻿flask
-flask-migrate
-flask-sqlalchemy
-mysql-connector-python
-python-dotenv
-sqlalchemy
+﻿Flask
+Flask-SQLAlchemy
+Flask-Migrate
+pymysql
